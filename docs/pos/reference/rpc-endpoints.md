@@ -119,7 +119,6 @@ You can sign up for a dedicated free RPC URL at the following:
 * [DataHub (Figment)](https://datahub.figment.io)
 * [GetBlock](https://getblock.io/en/)
 * [Infura](https://infura.io)
-* [MaticVigil](https://rpc.maticvigil.com/)
 * [Moralis](https://moralis.io)
 * [NodeReal](https://nodereal.io)
 * [OnFinality](https://onfinality.io/)
@@ -128,7 +127,6 @@ You can sign up for a dedicated free RPC URL at the following:
 * [SettleMint](https://docs.settlemint.com/docs/polygon-connect-to-a-node)
 * [Tatum](https://tatum.io/)
 * [WatchData](https://docs.watchdata.io/blockchain-apis/polygon-api)
-* [NOWNodes](https://nownodes.io/nodes/polygon-matic)
 * [Kriptonio](https://kriptonio.com/)
 * [Chain49](https://chain49.com/)
 
